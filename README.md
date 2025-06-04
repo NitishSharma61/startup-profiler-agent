@@ -235,6 +235,14 @@ pytest tests/
 - Use type hints for better code documentation
 - Add logging for debugging and monitoring
 
+## Demo Video
+
+Watch the complete demonstration of the Startup Profiler Agent:
+
+[📹 View Demo Video](demo-video.mp4)
+
+*The video shows the complete workflow: CLI usage, Streamlit UI, live company analysis, and all features in action.*
+
 ## Screenshots
 
 The application includes a modern Streamlit web interface:
