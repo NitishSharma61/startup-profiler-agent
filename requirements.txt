@@ -1,0 +1,31 @@
+# Core dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Google Gemini
+google-generativeai==0.3.2
+
+# Langchain
+langchain==0.1.0
+langchain-google-genai==0.0.5
+
+# Supabase
+supabase==2.15.2
+httpx==0.28.1
+
+# SerpAPI
+google-search-results==2.4.2
+
+# Logging and utilities
+colorlog==6.8.0
+
+# Optional: For Streamlit UI
+streamlit==1.29.0
+
+# Development dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+black==23.11.0
+flake8==6.1.0

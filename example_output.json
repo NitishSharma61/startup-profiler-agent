@@ -1,0 +1,66 @@
+{
+  "status": "success",
+  "message": "Company profile created successfully",
+  "data": {
+    "id": "745c4875-9e4a-4a45-932e-ce51daafc010",
+    "website_url": "https://notion.so",
+    "company_name": "Notion",
+    "page_title": "The AI workspace that works for you. | Notion",
+    "meta_description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+    "company_summary": "Notion is an all-in-one workspace platform leveraging AI to streamline workflows and boost productivity. It integrates various tools like note-taking, project management, wikis, email, and calendars into a single, flexible space. Designed for teams and individuals, Notion's AI features assist with tasks such as search, writing, and meeting transcription. Its intuitive interface and extensive integrations make it a powerful solution for managing work, projects, and knowledge, catering to diverse needs from personal organization to enterprise-level collaboration.",
+    "industry_category": "Software as a Service (SaaS), Productivity Software, Project Management Software, Knowledge Management Software",
+    "target_audience": "Notion targets a broad audience including individuals, students, teachers, creators, startups, and large enterprises across various departments (product, engineering, design, marketing, IT). Its appeal extends to those seeking improved organization, streamlined workflows, and enhanced collaboration, particularly those currently juggling multiple applications.",
+    "key_problems_solved": [
+      "Managing multiple applications and tools for work and personal tasks",
+      "Inefficient workflows and communication within teams", 
+      "Difficulty in centralizing knowledge and information",
+      "Lack of integrated project management and collaboration tools",
+      "Time wasted on repetitive tasks and busywork"
+    ],
+    "potential_competitors": [
+      "Asana",
+      "Trello", 
+      "Monday.com",
+      "Microsoft Teams",
+      "Google Workspace",
+      "ClickUp"
+    ],
+    "news_summary": "Recent news highlights Notion's increasing popularity among startups and established companies, emphasizing its AI-powered features like meeting transcription and report writing. Articles discuss the platform's ability to consolidate workflows and enhance productivity, while others address the cost associated with its AI capabilities.",
+    "h1_tags": [
+      "The AI workspace that works for you."
+    ],
+    "h2_tags": [
+      "One place where teams find every answer, automate the busywork, and get projects done.",
+      "Perfect notes every time.",
+      "One search for everything.",
+      "Keep every plan on track.",
+      "The inbox that thinks like you.",
+      "Run your entire company."
+    ],
+    "outbound_links": [
+      "https://www.instagram.com/notionhq/",
+      "https://www.linkedin.com/company/notionhq/",
+      "https://www.facebook.com/NotionHQ/",
+      "https://twitter.com/NotionHQ",
+      "https://www.youtube.com/channel/UCoSvlWS5XcwaSzIcbuJ-Ysg"
+    ],
+    "latest_news": [
+      {
+        "title": "'Everything starts and lives in Notion now': The AI workspace that OpenAI, Linktree and next-gen startups love",
+        "snippet": "Used by both global tech giants and early-stage startups alike, AI workspace Notion is picking up speed in Australia and New Zealand.",
+        "source": "https://www.startupdaily.net/partner-content/notion-ai-workspace/",
+        "source_name": "Startup Daily",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Notion AI can transcribe conversations and write reports, but it'll cost you",
+        "snippet": "Notion AI is getting new features and a higher price tag.",
+        "source": "https://www.engadget.com/ai/notion-ai-transcribe-conversations/",
+        "source_name": "Engadget", 
+        "date": "3 weeks ago"
+      }
+    ],
+    "created_at": "2025-06-04T16:09:13.000Z",
+    "updated_at": "2025-06-04T16:09:13.000Z"
+  }
+}
