@@ -235,6 +235,25 @@ pytest tests/
 - Use type hints for better code documentation
 - Add logging for debugging and monitoring
 
+## Screenshots
+
+The application includes a modern Streamlit web interface:
+
+![Application Interface](images/image%201.png)
+*Main interface with company URL input*
+
+![Analysis Results](images/image%202.png)
+*Company analysis results with AI-generated insights*
+
+![Detailed View](images/image%203.png)
+*Detailed company profile with competitors and news*
+
+![Database Integration](images/image%204.png)
+*Real-time data storage and retrieval*
+
+![Complete Analysis](images/image%205.png)
+*Full company profiling workflow*
+
 ## Troubleshooting
 
 1. **API Key Issues**: Ensure all API keys are correctly set in the `.env` file
